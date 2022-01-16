@@ -170,11 +170,14 @@ footer{
         grid-template-columns: repeat(1,1fr);
     }
     .see-more{
-      padding-left: 60%;
+      padding-left: 70%;
     }
     .creativity{
         flex-direction: column;
         grid-template-columns: repeat(1,1fr);
+    }
+    footer{
+        width: 100%;
     }
 }
 
@@ -197,6 +200,9 @@ footer{
             .creativity{
                 flex-direction: column;
                 grid-template-columns: repeat(2,2fr);
+            }
+            footer{
+                width: 100%;
             }
     }
    
