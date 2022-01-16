@@ -170,7 +170,7 @@ footer{
         grid-template-columns: repeat(1,1fr);
     }
     .see-more{
-      padding-left: 70%;
+      padding-left: 75%;
     }
     .creativity{
         flex-direction: column;
